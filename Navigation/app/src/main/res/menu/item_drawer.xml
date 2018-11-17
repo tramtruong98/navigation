@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/week"
+        android:title="task to do per week"
+        android:icon="@drawable/week"
+        />
+    <item
+        android:id="@+id/year"
+        android:title="task to do hole year"
+        android:icon="@drawable/year"
+        />
+    <item
+        android:id="@+id/repeat"
+        android:title="repeat task"
+        android:icon="@drawable/repeat"
+        />
+    <item
+        android:id="@+id/chart"
+        android:title="chart"
+        android:icon="@drawable/pie_chart"
+        />
+</menu>
+
+
+
+
+
